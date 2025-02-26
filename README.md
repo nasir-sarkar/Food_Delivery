@@ -1,4 +1,4 @@
-![Breakfast](https://github.com/user-attachments/assets/95597cb1-bd92-480a-aa76-fca954a4efed)# Title
+# Title
 Khuda Lagche - Food Delivery Management System
 
 # Quick Look
